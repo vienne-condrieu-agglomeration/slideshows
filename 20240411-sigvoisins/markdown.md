@@ -663,7 +663,6 @@ Pour les impressions grand-format et le scan de plans :
     * S'équiper d'un `rover RTK  du projet Centipede` afin de saisir via QfieldCloud,
 
 
-
  <!-- .slide: data-background-image="./assets/images/vca-black-bg.jpg"  -->
 <h2>
     <span class="title-accent">//</span> 
