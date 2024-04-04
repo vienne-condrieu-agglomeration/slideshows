@@ -106,7 +106,6 @@ Un modèle numérique de terrain (MNT) est une représentation en `2,5D` de la s
 * Cela ne concerne que **les risques naturels**, à l'exclusion des risques d'inondations du fleuve Rhône et du PPRI du Gier.
 
 
-
 <!-- .slide: data-background-image="./assets/images/vca-crue-gere-1993.jpg"  -->
 <h2>
     <span class="title-accent">//</span> 
