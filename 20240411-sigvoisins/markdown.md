@@ -375,8 +375,7 @@ Les grandes étapes du projet :
     Organigramme
 </h2>
 
-![vcsm_organigramme_juin_2023_192d992886](./assets/images/csm_organigramme_juin_2023_192d992886.jpg)
-
+![csm_organigramme_juin_2023_192d992886](./assets/images/csm_organigramme_juin_2023_192d992886.jpg)
 
 
 <!-- .slide: data-background-image="./assets/images/vca-service-epci-black-bg.jpg"  -->
