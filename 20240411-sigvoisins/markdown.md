@@ -2,6 +2,15 @@
 
 
 
+<!-- .slide: class="title"  -->
+<!-- .slide: data-background-image="./assets/images/vca-black-bg.jpg"  -->
+<h2>
+    <span class="title-accent">//</span> 
+    SIG Voisins #4<br />11 avril 2024
+</h2>
+
+
+
 ## External 1.1
 
 Content 1.1
