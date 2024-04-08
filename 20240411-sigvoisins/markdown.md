@@ -424,18 +424,6 @@ Selon la demande, nous sommes amenés à travailler sur de l'aide à la saisie (
     Les aspects stratégiques
 </h2>
 
-Au niveau politique :
-* Un portage politique globalement faible au sein de Vienne Condrieu Agglomération,
-    * Pas de représentation en charge des données numériques et/ou SIG,
-* En général, `la question du numérique` semble être pour l'heure encore peu visible dans les actions portées par les collectivités.
-
-
-<!-- .slide: data-background-image="./assets/images/vca-organisation-black-bg.jpg"  -->
-<h2>
-    <span class="title-accent">//</span> 
-    Les aspects stratégiques
-</h2>
-
 Au niveau du volet technique et organisationnel :
 * Manque de transversalité dans les questions SIG,
 * Méconnaissance de l'expertise interne en terme de la gestion de données SIG au sein de la collectivité,
